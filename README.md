@@ -12,7 +12,6 @@ This project aims to simulate the behavior of a cloth falling on a sphere using 
 
 - Realistic cloth simulation
 - GPU acceleration using Rust and WGSL
-- Interactive controls for adjusting simulation parameters
 - Visualization of the cloth and sphere in a 3D environment
 
 ## Installation
