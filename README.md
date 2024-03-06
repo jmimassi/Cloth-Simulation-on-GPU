@@ -5,7 +5,7 @@
 This project aims to simulate the behavior of a cloth falling on a sphere using Rust programming language and WGSL (WebGPU Shading Language). The simulation will be executed on the GPU, leveraging its parallel processing capabilities for efficient computation.
 
 <div align="center">
-    <img src="Cloth-Simulation-on-GPU/cloth_falling.gif" alt="Cloth Simulation">
+    <img src="cloth_falling.gif" alt="Cloth Simulation">
 </div>
 
 ## Features
